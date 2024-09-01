@@ -22,4 +22,4 @@ Portfolio of Software Development and Engineering completed by Shaylee Broadus w
 # 4280- Computer Graphics (Javascript THREE.js, and WebGL)
   learned how to use THREE.js and WebGL to create graphics and traversable environments on the web.
 - Group project - video game
-  - created a simple unpolished video game with a teammate to learn collision, movement, interaction, and animation within THREE.js and WebGL. For this project I had written most of the animation and interaction and collision, with some of the scene setup. My teammate helped with the assets and objects in blender and the camera dictation. The work was done together than a division of work like other projects. 
+  - created a simple unpolished video game with a teammate to learn collision, movement, interaction, and animation. For this project I had written most of the animation and interaction and collision. My teammate helped with the assets and objects in blender and the camera dictation. The work was done together than a division of work like other projects. 
